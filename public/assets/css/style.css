@@ -26,3 +26,35 @@ li {
     background-color: rgb(160, 117, 25);
 }
 
+.burger-pic{
+    background-image:  url('../img/b1-s.png');
+}
+
+.burger-menu{
+    font-size: 17px !important;
+}
+
+.title-burger{
+    color: white !important;
+}
+
+.burger-section{
+    background-color: rgb(239, 247, 255,0.5);
+    border-radius: 25px;
+}
+
+.change-devoured{
+    border-radius: 15px;
+
+}
+.burger-button{
+    border-radius: 8px;
+
+}
+.img-url{
+
+}
+
+.main-title{
+    margin-bottom: 50px;
+}
