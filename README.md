@@ -6,4 +6,4 @@ This is a burger logger with MySQL, Node, Express, Handlebars, JAWS database and
 
 ## Sample View for the Main Page
 
-![Main Page](/public/img/burger-front.png)
+![Main Page](/public/assets/img/burger-front.png)
