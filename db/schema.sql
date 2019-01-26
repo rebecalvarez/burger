@@ -1,6 +1,10 @@
 
-CREATE DATABASE burgers_db;
-USE burgers_db;
+-- CREATE DATABASE burgers_db;
+-- USE burgers_db;
+
+CREATE DATABASE w60y0tzv3iht5lr4;
+USE w60y0tzv3iht5lr4;
+
 
 CREATE TABLE burgers
 (
